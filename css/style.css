@@ -6,6 +6,7 @@
     
     body {
         font-family: 'varela round', sans-serif;
+       overflow-x: hidden;
     }
     /* header */
     
